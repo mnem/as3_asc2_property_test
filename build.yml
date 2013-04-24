@@ -1,5 +1,5 @@
 :output: 'bin'
-:swf_version: 18
-:playerglobal_version: '11.5'
+:swf_version: 19
+:playerglobal_version: '11.6'
 :srcs:
 :libs:

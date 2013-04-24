@@ -1,2 +1,2 @@
-:flash_sdk: '/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK'
+:flash_sdk: '/Users/mnem/Development/sdks/flash/current'
 :compile_options: '-use-network=true'
